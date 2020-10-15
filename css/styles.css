@@ -870,6 +870,9 @@ input[type='checkbox'] {
 	text-align: left;
 }
 
+img {
+	max-width: 100%;
+}
 .cards-1 .fa-stack .hexagon {
 	position: absolute;
 	width: 6rem;
@@ -975,7 +978,7 @@ input[type='checkbox'] {
 /*************************/
 .accordion .area-1 {
 	height: 27rem;
-	background: url('../images/unnamed (1).jpg') center center no-repeat;
+	background: url('../images/values.jpg') center center no-repeat;
 	background-size: cover;
 }
 
